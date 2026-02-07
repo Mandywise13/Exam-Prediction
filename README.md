@@ -31,6 +31,9 @@ The tools use fo this project includes
 2. Which of the gender has the highest exam score?
 3. What is the average score of those with internet access?
 
+![Uploading WhatsApp Image 2026-02-03 at 14.52.05.jpeg…]()
+
+
 ### Results/Findlinds
 ```
 SELECT COUNT(*) FROM

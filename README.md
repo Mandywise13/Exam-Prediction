@@ -33,6 +33,8 @@ The tools use fo this project includes
 
 ![Uploading WhatsApp Image 2026-02-03 at 14.52.05.jpeg…]()
 
+<img width="529" height="472" alt="IMG_0052 (1)" src="https://github.com/user-attachments/assets/6a337cbc-7e43-49a9-9fef-42fb74f93f05" />
+
 
 ### Results/Findlinds
 ```
